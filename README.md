@@ -1,6 +1,6 @@
 <!-- 🌈 ULTIMATE PREMIUM HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Digital+Universe+🌌;I'm+Dhyey+Patel+🔥;DevOps+Engineer+%7C+Cloud+Architect+%7C+Web+Developer
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Digital+Universe+🌌;I'm+Kunjan+Shrimali🔥;DevOps+Engineer+%7C+Cloud+Architect+%7C+Web+Developer
     ;I+Build+Futuristic+Tech+%F0%9F%94%AE" />
 </p>
 
