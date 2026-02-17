@@ -1,73 +1,79 @@
-<h1 align="center">Kunjan Shrimali</h1>
+<h1 align="center" style="margin-bottom:5px;">Kunjan Shrimali</h1>
 
-<p align="center">
+<p align="center" style="font-size:18px;">
 <b>DevOps Engineer | Cloud Architect | Web Developer</b>
 </p>
 
-<p align="center">
+<p align="center" style="max-width:700px; margin:auto;">
 Building scalable cloud infrastructure, automating deployments, and designing production-grade systems.
 </p>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-- DevOps & Cloud Engineer with hands-on experience in AWS and Azure  
-- Skilled in CI/CD pipeline design and automation  
-- Strong background in Docker, Kubernetes & Infrastructure as Code  
-- Focused on system reliability, scalability & security  
-- Passionate about continuous improvement and performance optimization  
+<ul>
+<li>DevOps & Cloud Engineer with hands-on experience in AWS and Azure</li>
+<li>Skilled in CI/CD pipeline design and automation</li>
+<li>Strong background in Docker, Kubernetes & Infrastructure as Code</li>
+<li>Focused on system reliability, scalability & security</li>
+<li>Passionate about continuous improvement and performance optimization</li>
+</ul>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 🚀 Technical Skills
+<h2>🚀 Technical Skills</h2>
 
-### ☁ Cloud Platforms
-AWS • Microsoft Azure • Google Cloud (Basic)
+<h3>☁ Cloud Platforms</h3>
+<p>AWS • Microsoft Azure • Google Cloud (Basic)</p>
 
-### ⚙ DevOps & Tools
-Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Linux • Nginx • Git
+<h3>⚙ DevOps & Tools</h3>
+<p>Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Linux • Nginx • Git</p>
 
-### 💻 Programming
-Python • PHP • JavaScript • Bash • Java • C++ • SQL
+<h3>💻 Programming</h3>
+<p>Python • PHP • JavaScript • Bash • Java • C++ • SQL</p>
 
-### 🗄 Databases
-MySQL • MongoDB
+<h3>🗄 Databases</h3>
+<p>MySQL • MongoDB</p>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunjanShrimali&show_icons=true&hide_border=true" height="170"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kunj0904&show_icons=true&hide_border=true" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjanShrimali&hide_border=true" height="170"/>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj0904&hide_border=true" height="165"/>
 </p>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 🏆 Key Highlights
+<h2>🏆 Key Highlights</h2>
 
-- Designed and implemented full CI/CD pipelines  
-- Deployed scalable cloud infrastructure  
-- Containerized production-grade applications  
-- Automated deployment workflows  
-- Configured secure Linux-based servers  
+<ul>
+<li>Designed and implemented full CI/CD pipelines</li>
+<li>Deployed scalable cloud infrastructure</li>
+<li>Containerized production-grade applications</li>
+<li>Automated deployment workflows</li>
+<li>Configured secure Linux-based servers</li>
+</ul>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 📫 Connect With Me
+<h2>📫 Connect With Me</h2>
 
-LinkedIn: https://www.linkedin.com/  
-GitHub: https://github.com/KunjanShrimali  
-Email: yourmail@gmail.com  
+<p>
+LinkedIn: https://www.linkedin.com/ <br>
+GitHub: https://github.com/kunj0904 <br>
+Email: yourmail@gmail.com
+</p>
 
----
+<hr style="height:1px;border:none;background-color:#30363d;">
 
-## 💡 Professional Philosophy
+<h3 align="center" style="font-style:italic;">
+"Consistency, automation, and continuous improvement build scalable technology."
+</h3>
 
-> "Consistency, automation, and continuous improvement build scalable technology."
-
-— Kunjan Shrimali
+<p align="center"><b>— Kunjan Shrimali</b></p>
