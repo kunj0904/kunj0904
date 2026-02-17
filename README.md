@@ -1,185 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Kunjan Shrimali | DevOps Engineer</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1 align="center">Kunjan Shrimali</h1>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+<p align="center">
+<b>DevOps Engineer | Cloud Architect | Web Developer</b>
+</p>
 
-        body {
-            background-color: #f4f6f9;
-            color: #333;
-            line-height: 1.6;
-        }
+<p align="center">
+Building scalable cloud infrastructure, automating deployments, and designing production-grade systems.
+</p>
 
-        .container {
-            width: 90%;
-            max-width: 1100px;
-            margin: auto;
-            padding: 60px 0;
-        }
+---
 
-        header {
-            background: #0f172a;
-            color: white;
-            text-align: center;
-            padding: 100px 20px;
-        }
+## 👨‍💻 About Me
 
-        header h1 {
-            font-size: 42px;
-            margin-bottom: 10px;
-        }
+- DevOps & Cloud Engineer with hands-on experience in AWS and Azure  
+- Skilled in CI/CD pipeline design and automation  
+- Strong background in Docker, Kubernetes & Infrastructure as Code  
+- Focused on system reliability, scalability & security  
+- Passionate about continuous improvement and performance optimization  
 
-        header p {
-            font-size: 18px;
-            color: #cbd5e1;
-        }
+---
 
-        h2 {
-            margin-bottom: 20px;
-            color: #0f172a;
-            border-left: 5px solid #2563eb;
-            padding-left: 10px;
-            font-size: 26px;
-        }
+## 🚀 Technical Skills
 
-        .about p {
-            max-width: 800px;
-        }
+### ☁ Cloud Platforms
+AWS • Microsoft Azure • Google Cloud (Basic)
 
-        .skill-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-        }
+### ⚙ DevOps & Tools
+Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Linux • Nginx • Git
 
-        .card {
-            background: white;
-            padding: 25px;
-            border-radius: 10px;
-            box-shadow: 0 6px 15px rgba(0,0,0,0.05);
-            transition: 0.3s ease;
-        }
+### 💻 Programming
+Python • PHP • JavaScript • Bash • Java • C++ • SQL
 
-        .card:hover {
-            transform: translateY(-6px);
-        }
+### 🗄 Databases
+MySQL • MongoDB
 
-        .card h3 {
-            margin-bottom: 12px;
-            color: #2563eb;
-        }
+---
 
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
+## 📊 GitHub Stats
 
-        .achievements ul li {
-            margin-bottom: 10px;
-        }
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunjanShrimali&show_icons=true&hide_border=true" height="170"/>
+</p>
 
-        .contact p {
-            margin-bottom: 8px;
-        }
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjanShrimali&hide_border=true" height="170"/>
+</p>
 
-        footer {
-            background: #0f172a;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
+---
 
-        @media (max-width: 768px) {
-            header h1 {
-                font-size: 30px;
-            }
-        }
-    </style>
-</head>
+## 🏆 Key Highlights
 
-<body>
+- Designed and implemented full CI/CD pipelines  
+- Deployed scalable cloud infrastructure  
+- Containerized production-grade applications  
+- Automated deployment workflows  
+- Configured secure Linux-based servers  
 
-<header>
-    <h1>Kunjan Shrimali</h1>
-    <p>DevOps Engineer | Cloud Architect | Web Developer</p>
-</header>
+---
 
-<section class="about container">
-    <h2>About Me</h2>
-    <p>
-        I am a results-driven DevOps and Cloud Engineer specializing in AWS, Azure,
-        CI/CD pipelines, containerization, and scalable infrastructure design.
-        I focus on automation, system reliability, and production-grade deployments.
-    </p>
-</section>
+## 📫 Connect With Me
 
-<section class="skills container">
-    <h2>Technical Skills</h2>
-    <div class="skill-grid">
-        <div class="card">
-            <h3>Cloud Platforms</h3>
-            <ul>
-                <li>AWS</li>
-                <li>Microsoft Azure</li>
-                <li>Google Cloud</li>
-            </ul>
-        </div>
+LinkedIn: https://www.linkedin.com/  
+GitHub: https://github.com/KunjanShrimali  
+Email: yourmail@gmail.com  
 
-        <div class="card">
-            <h3>DevOps & Tools</h3>
-            <ul>
-                <li>Docker</li>
-                <li>Kubernetes</li>
-                <li>Jenkins</li>
-                <li>GitHub Actions</li>
-                <li>Terraform</li>
-                <li>Linux</li>
-            </ul>
-        </div>
+---
 
-        <div class="card">
-            <h3>Programming</h3>
-            <ul>
-                <li>Python</li>
-                <li>PHP</li>
-                <li>JavaScript</li>
-                <li>Bash</li>
-                <li>SQL</li>
-            </ul>
-        </div>
-    </div>
-</section>
+## 💡 Professional Philosophy
 
-<section class="achievements container">
-    <h2>Key Achievements</h2>
-    <ul>
-        <li>Designed and implemented complete CI/CD pipelines</li>
-        <li>Deployed scalable cloud infrastructure on AWS & Azure</li>
-        <li>Containerized and managed Kubernetes applications</li>
-        <li>Automated deployment workflows for web projects</li>
-        <li>Configured secure Linux-based production servers</li>
-    </ul>
-</section>
+> "Consistency, automation, and continuous improvement build scalable technology."
 
-<section class="contact container">
-    <h2>Contact</h2>
-    <p>Email: yourmail@gmail.com</p>
-    <p>GitHub: github.com/KunjanShrimali</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
-</section>
-
-<footer>
-    <p>© 2026 Kunjan Shrimali. All Rights Reserved.</p>
-</footer>
-
-</body>
-</html>
+— Kunjan Shrimali
